@@ -17,7 +17,7 @@ Interests:
 - Digital art & animation  
 - Indie game development  
 
-📫 Feel free to reach out or check out my projects here on GitHub!
+Feel free to reach out or check out my projects here on GitHub!
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/urupix_nono) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eleonora_hunt_tasso) 
 
