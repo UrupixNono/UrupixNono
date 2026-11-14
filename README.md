@@ -101,7 +101,7 @@ I love mixing creativity and technology: from 3D modeling and game worlds to und
 ## 🌐 Let's connect
 
 [![Discord](https://img.shields.io/badge/Discord-1E6FD9?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/SEU_ID_DISCORD)
-[![Instagram](https://img.shields.io/badge/Instagram-3B82F6?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SEU_USUARIO)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A2540?style=for-the-badge&logo=linkedin&logoColor=60A5FA)](https://linkedin.com/in/SEU_USUARIO)
 
 <div align="center">
